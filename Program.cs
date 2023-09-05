@@ -33,7 +33,7 @@ ReadKey();
 public class FavouriteFoodArrayManipulator{
 
     public void PrintArrayLength(string[] array){
-        WriteLine($"La lunghezza dell'array è {array.Length}"); 
+        WriteLine($"La lunghezza dell'array è di {array.Length} elementi"); 
         WriteLine();
 
     }
